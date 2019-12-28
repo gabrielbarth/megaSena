@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mega Sena</string>
+    <string name="titulo">Informe a quantidade de números que deseja apostar.\n\n
+        Aposta mínima 6 numeros;\n
+        Aposta máxima 15 numeros.</string>
+</resources>
