@@ -13,5 +13,4 @@ Mobile android app to sort randomly lottery numbers (6 to 15).
 
 <br>
 <br>
-<img src="./app%20images/m2.jpeg"   width="400">
-<img src="./app%20images/m1.jpeg"   width="400">
+<img src="./app%20images/mega-sena-gif.gif"   width="400">
